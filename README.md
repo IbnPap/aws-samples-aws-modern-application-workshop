@@ -1,1 +1,1 @@
-# aws-samples-aws-modern-applocation-workshop
+# aws-samples-aws-modern-application-workshop
